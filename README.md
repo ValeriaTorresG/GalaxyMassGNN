@@ -8,4 +8,4 @@
 6. `models.ipynb` Model exploration
 7. `./rosette_img` Rosettes graphs
 
-`[DESI data](https://data.desi.lbl.gov/public/)`
+`[DESI data(https://data.desi.lbl.gov/public/)https://data.desi.lbl.gov/public/]`
