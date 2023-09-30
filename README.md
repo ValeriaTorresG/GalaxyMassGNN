@@ -1,6 +1,6 @@
 # Galaxy stellar mass estimation with graph neural networks (GNN)
 
-[DESI data](https://data.desi.lbl.gov/public/)https://data.desi.lbl.gov/public/`
+[DESI data](https://data.desi.lbl.gov/public/)https://data.desi.lbl.gov/public/)`
 
 1. `fits.ipynb` Fits file use
 2. `data.ipynb` Data exploration
