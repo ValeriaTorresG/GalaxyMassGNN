@@ -1,13 +1,18 @@
 -La masa salía rara porque estaba sacando 22.5-2.5*np.log10..., uso m o con log10(m)?
--Tiene sentido que w1,w2,z sean los mas imp en RF, se ve en el R^2 del lineal?
+-Tiene sentido que w1,w2,z sean los mas imp en RF, se ve en el R^2 del lineal? son los que tienen mejor correlacion en la matriz
+
+-La regresión con una variable es muy mala para predecir con otra roseta, pero la de varias variables si es muy buena
+
+-la columna aleatoria no afectó el modelo
 
 Por hacer:
-1.arreglar masa
-2.arreglar ejes graficas
-3.R^2 y mse para otras rosetas de prueba
+1.arreglar masa /
+2.arreglar ejes graficas /
+3.R^2 y mse para otras rosetas de prueba /, agregar col aleatoria /
 4.hacer tabla con 3.
 5.Latex!!!
 7.diagrama voronoi
 8.trangulacion
 9.adelantar gnn
-10.verificar como arreglar las graficas de las rosetas
+10.slides
+11.verificar como arreglar las graficas de las rosetas
