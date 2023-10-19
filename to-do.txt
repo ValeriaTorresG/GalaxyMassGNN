@@ -5,14 +5,23 @@
 
 -la columna aleatoria no afectó el modelo
 
+-organice las graficas en otro notebook
+
+
 Por hacer:
 1.arreglar masa /
 2.arreglar ejes graficas /
 3.R^2 y mse para otras rosetas de prueba /, agregar col aleatoria /
-4.hacer tabla con 3.
+4.hacer tabla con 3. /
 5.Latex!!!
 7.diagrama voronoi
 8.trangulacion
 9.adelantar gnn
 10.slides
 11.verificar como arreglar las graficas de las rosetas
+
+plots
+nodes vs edges /
+log masa vs log edges /
+log fluxn vs log masa /
+log fluxn vs log edges /
