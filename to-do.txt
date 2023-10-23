@@ -3,9 +3,11 @@
 
 -La regresión con una variable es muy mala para predecir con otra roseta, pero la de varias variables si es muy buena
 
--la columna aleatoria no afectó el modelo
+-la columna aleatoria no afectó el modelo de RF
 
--organice las graficas en otro notebook
+-organice las graficas en otro notebook -> plots.ipynb
+
+
 
 
 Por hacer:
