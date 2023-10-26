@@ -1,4 +1,4 @@
-# Galaxy stellar mass estimation with graph neural networks (GNN)
+# Galaxy stellar mass estimation with Graph Neural Networks (GNN)
 
 [DESI data](https://data.desi.lbl.gov/public/)
 
