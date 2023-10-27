@@ -7,4 +7,4 @@ Por hacer:
 4.Latex
 5.adelantar gnn!
 6.slides
-7. extra: d-v grafica paper
+7. extra: d-v grafica paper -> volumen regiones
