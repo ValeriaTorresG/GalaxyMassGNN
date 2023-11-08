@@ -13,4 +13,5 @@
 9. `voronoi-delaunay.ipynb`: Voronoi diagram and Delaunay triangulation use and exploration
 10. `./rosette_img`: Rosettes graph images
 11. `./data`: Nodes [id, mass, flux_g, flux_r, flux_z, flux_w1, flux_w2, z] and edges data [id,id]
+12. `./coord`: Galaxy coordinates [id, RA, DEC, Z] data
 13. `./data_vd`: Nodes data used in Voronoi-Delaunay [RA,DEC,Z]
