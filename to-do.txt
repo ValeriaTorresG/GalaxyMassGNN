@@ -1,10 +1,9 @@
 
 
 Por hacer:
-1.log z to z /
-2.actualizar tabla /
-3.coeficientes /
-4.Latex
-5.adelantar gnn!
-6.slides
-7. extra: d-v grafica paper -> volumen regiones
+1.actualizar ejes graficas predicciones /
+2.grafica grafo reducida
+3.preguntas forms
+4.paper
+5.slides
+6.extra: d-v grafica paper -> volumen regiones
