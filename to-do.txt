@@ -7,3 +7,19 @@ Por hacer:
 4.paper
 5.slides
 6.extra: d-v grafica paper -> volumen regiones
+
+slides:
+1. gnn: que es
+2. gnn: por que gnn y no gcn, ... (estrucutura y propiedades de las galaxias, etc.)
+3. desi: que es
+4. desi edr
+5. desi data: flujos, masa
+6. como se calcula la masa?
+7. modelo lineal
+8. modelo RF
+9. estructura del grafo
+10. propiedades del grafo
+11. estructura de la gnn
+12. resultados
+13. test-estadisticas
+14. cosas a mejorar, posibles aplicaciones
