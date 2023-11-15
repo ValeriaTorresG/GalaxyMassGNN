@@ -2,7 +2,7 @@
 
 Por hacer:
 1.actualizar ejes graficas predicciones /
-2.grafica grafo reducida
+2.grafica grafo reducida 2d /
 3.preguntas forms
 4.paper
 5.slides
@@ -23,3 +23,11 @@ slides:
 12. resultados
 13. test-estadisticas
 14. cosas a mejorar, posibles aplicaciones
+
+Presentacion seminario
+
+Intro 5 (metodos y objetivos) -> ML -> predecir masas
+DESI datos, masa, 5
+Datasets, rosetas, -> proba bgs M*, -> RA, DEC, Z , 5
+Resultados, 5
+
