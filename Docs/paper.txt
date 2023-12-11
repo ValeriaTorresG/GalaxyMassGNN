@@ -1,0 +1,11 @@
+Overleaf (paper MNRAS template)
+https://www.overleaf.com/6828923711grsznnyvhgzs#043c83
+
+Overlear (Poster)
+https://www.overleaf.com/1838139179dstctzsssjnm#e63f71
+
+Documento Proyecto Teorico/Computacional
+https://es.overleaf.com/9942798654yxzvkzntdzzk#44414b
+
+GNN Google Colab using GPU
+https://colab.research.google.com/drive/1oRtzH6RvW4wVcpS5awUdxBPbFSh9CVN4?usp=sharing
