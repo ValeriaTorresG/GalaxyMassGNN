@@ -9,3 +9,6 @@ https://es.overleaf.com/9942798654yxzvkzntdzzk#44414b
 
 GNN Google Colab using GPU
 https://colab.research.google.com/drive/1oRtzH6RvW4wVcpS5awUdxBPbFSh9CVN4?usp=sharing
+
+Azure VM IP (Ubuntu 20.04)
+52.146.5.40
