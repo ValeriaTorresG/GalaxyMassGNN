@@ -4,7 +4,7 @@ Todo!
 1. RF /
 2. Shap values /
 3. fix graph plot
-3. RRF
-4. GNN optuna
-
-
+4. animations? /
+5. RRF
+6. GNN optuna
+7. importance graph plot
